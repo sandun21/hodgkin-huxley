@@ -13,10 +13,10 @@ To run this application locally, follow these steps:
 
 Make sure you have Python installed. This project requires the following Python libraries:
 
-\````bash
-pip install streamlit numpy matplotlib scipy
-\````bash
-  Then navigate to the webapps folder and run 
-\````bash
+```bash
+  pip install streamlit numpy matplotlib scipy
+```
+Then navigate to the webapps folder and run 
+```bash
   streamlit run .\vclampstreamlit.py
-\````bash
+```
